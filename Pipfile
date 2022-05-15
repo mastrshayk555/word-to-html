@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 mammoth = "*"
 beautifulsoup4 = "*"
+python-docx = "*"
 
 [dev-packages]
 

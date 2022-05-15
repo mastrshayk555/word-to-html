@@ -51,6 +51,6 @@ class Converter:
             txt = txt.replace(hyphen2, '-')
             txt = txt.replace(dot3, '...')
             txt = txt.replace(nbsp, '')
-#
+
         with open(self.output_file_path, "w", encoding="utf-8") as outf:
             outf.write(txt)
