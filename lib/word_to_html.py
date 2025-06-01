@@ -1,4 +1,5 @@
 import mammoth
+from pathlib import Path
 
 
 class Converter:

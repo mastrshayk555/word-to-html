@@ -19,7 +19,7 @@ author_dict = {
     },
     "Wallace": {
         "full_name": "Arla Wallace",
-        "file_handle": "ArlaWallace",
+        "file_handle": "ArlaWallacePFC",
         "article_category": "Business Finance",
     },
     "Best": {
@@ -42,13 +42,24 @@ author_dict = {
         "file_handle": "RamseyBusiness",
         "article_category": "Business Finance",
     },
+
+    "Scott": {
+        "full_name": "Scott Orlosky",
+        "file_handle": "tech",
+        "article_category": "Technology",
+    },
+    "BRC": {
+        "full_name": "Financial Wisdom",
+        "file_handle": "Situation",
+        "article_category": "Business Situation Analysis",
+    }
 }
 
-name = "Pelland"
-doc_file_title = ""
-title = ""
-description = ""
-date = "05/15/2021"
+name = "Best"
+doc_file_title = "When Is It Time to Hire a CPA for Your Small Business"
+title = """When Is It Time to Hire a CPA for Your Small Business?"""
+description = """Wondering when to hire a CPA for your small business? Learn the key signs—from tax complexity to cash flow issues—that signal it’s time to bring in a financial expert and grow with confidence."""
+date = "06/01/2025"
 
 
 def convert_date(date_str):
